@@ -1,0 +1,7 @@
+n=input()
+l = list(map(int,input().split()))
+maximum = max(l)
+ind = l.index(maximum)
+l.pop(ind)
+second_max = max(l)
+print(maximum * second_max)

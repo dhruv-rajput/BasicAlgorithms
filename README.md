@@ -1,1 +1,1 @@
-Some basic Algorithms for practice.
+Some basic and fundamental Algorithms for practice.
